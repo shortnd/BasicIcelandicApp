@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Phrases -->
+    <string name="cheers_icelandic">Skál!</string>
+    <string name="whats_your_name_icelandic">Hvað heitir þú?</string>
+    <string name="my_name_is_icelandic">Ég heiti&#8230;</string>
+    <string name="how_are_you_icelandic">Hvering hefur þú það</string>
+    <string name="all_good_icelandic">Allt gott</string>
+    <string name="where_are_you_from_icelandic">Hvaðan ertu?</string>
+    <string name="im_from_icelandic">Ég er frá&#8230;</string>
+    <string name="have_a_nice_day_icelandic">Eigðu góðan dag</string>
+    <string name="i_love_you_icelandic">Ég elska þig</string>
+    <string name="wheres_the_toilet_icelandic">Hvar er klósettið?</string>
+    <string name="yes_icelandic">Já</string>
+    <string name="no_icelandic">Nei</string>
+</resources>

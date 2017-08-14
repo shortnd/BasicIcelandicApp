@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Basic Icelandic</string>
+
+    <!-- Phrases -->
+    <string name="cheers">Cheers! Good Health!</string>
+    <string name="whats_your_name">What\'s your name</string>
+    <string name="my_name_is">My name is&#8230;</string>
+    <string name="how_are_you">How are you?</string>
+    <string name="all_good">All Good</string>
+    <string name="where_are_you_from">Where are you from?</string>
+    <string name="im_from">I\'m from&#8230;</string>
+    <string name="have_a_nice_day">Have a nice day</string>
+    <string name="i_love_you">I love you</string>
+    <string name="wheres_the_toilet">Where\'s the toilet?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
 </resources>
