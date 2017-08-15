@@ -37,4 +37,18 @@
     <string name="red_icelandic">rauður</string>
     <string name="white_icelandic">hvítur</string>
     <string name="yellow_icelandic">gulur</string>
+
+    <!-- Family -->
+    <string name="father_icelandic">Faðir</string>
+    <string name="mother_icelandic">Móðir</string>
+    <string name="son_icelandic">sonur</string>
+    <string name="daughter_icelandic">dóttir</string>
+    <string name="brother_icelandic">bróðir</string>
+    <string name="sister_icelandic">dóttir</string>
+    <string name="grandmother_icelandic">amma</string>
+    <string name="grandfather_icelandic">afi</string>
+    <string name="cousin_icelandic">frændi</string>
+    <string name="aunt_icelandic">frænka</string>
+    <string name="uncle_icelandic">frændi</string>
+
 </resources>

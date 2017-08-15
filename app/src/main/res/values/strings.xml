@@ -39,4 +39,17 @@
     <string name="white">White</string>
     <string name="yellow">Yellow</string>
 
+    <!-- Family -->
+    <string name="father">Father</string>
+    <string name="mother">Mother</string>
+    <string name="son">Son</string>
+    <string name="daughter">Daughter</string>
+    <string name="brother">Brother</string>
+    <string name="sister">Sister</string>
+    <string name="grandmother">Grandmother</string>
+    <string name="grandfather">Grandfather</string>
+    <string name="cousin">Cousin</string>
+    <string name="aunt">Aunt</string>
+    <string name="uncle">Uncle</string>
+
 </resources>
