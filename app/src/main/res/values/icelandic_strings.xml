@@ -26,4 +26,15 @@
     <string name="nine_icelandic">níu</string>
     <string name="ten_icelandic">tíu</string>
 
+    <!-- Colors -->
+    <string name="black_icelandic">svartur</string>
+    <string name="blue_icelandic">blár</string>
+    <string name="brown_icelandic">brúnn</string>
+    <string name="gray_icelandic">grár</string>
+    <string name="green_icelandic">grænn</string>
+    <string name="orange_icelandic">appelsínugulur</string>
+    <string name="purple_icelandic">fjólublátt</string>
+    <string name="red_icelandic">rauður</string>
+    <string name="white_icelandic">hvítur</string>
+    <string name="yellow_icelandic">gulur</string>
 </resources>

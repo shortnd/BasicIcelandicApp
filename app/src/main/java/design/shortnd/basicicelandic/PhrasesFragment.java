@@ -17,7 +17,6 @@ public class PhrasesFragment extends Fragment {
 
 
     // Inflates the fragment to the base root view
-
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container,
