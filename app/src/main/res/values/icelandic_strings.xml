@@ -13,4 +13,17 @@
     <string name="wheres_the_toilet_icelandic">Hvar er klósettið?</string>
     <string name="yes_icelandic">Já</string>
     <string name="no_icelandic">Nei</string>
+
+    <!-- Numbers -->
+    <string name="one_icelandic">einn</string>
+    <string name="two_icelandic">tveir</string>
+    <string name="three_icelandic">þrír</string>
+    <string name="four_icelandic">fjórir</string>
+    <string name="five_icelandic">fimm</string>
+    <string name="six_icelandic">sex</string>
+    <string name="seven_icelandic">sjö</string>
+    <string name="eight_icelandic">átta</string>
+    <string name="nine_icelandic">níu</string>
+    <string name="ten_icelandic">tíu</string>
+
 </resources>

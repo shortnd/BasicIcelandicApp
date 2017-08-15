@@ -13,8 +13,7 @@ import java.util.ArrayList;
 
 public class PhrasesFragment extends Fragment {
     // Needs to be here
-    public PhrasesFragment() {
-    }
+    public PhrasesFragment() {}
 
 
     // Inflates the fragment to the base root view
