@@ -7,9 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    // TODO: 1. Add Pronunciation underneath each word
-
-    // TODO: 2. Make on Click Listener that opens up a new fragment with more information
+    // TODO: 1. Make on Click Listener that opens up a new fragment with more information
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
