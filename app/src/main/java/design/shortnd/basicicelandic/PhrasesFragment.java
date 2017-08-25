@@ -79,9 +79,7 @@ public class PhrasesFragment extends Fragment {
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
-            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                // TODO: Create an intent that starts a new fragment with more information
-            }
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {}
         });
 
         return rootView;
